@@ -1,2 +1,2 @@
-# hello-world
+# hello-world Primeiro exercicio da plataforma.
 Exercicio 01
